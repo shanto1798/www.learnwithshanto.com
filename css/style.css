@@ -1,0 +1,45 @@
+/* top part start */
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.navbar-brand{
+    position: relative;
+}
+.navbar-brand h3 {
+    position: absolute;
+    top: 50px;
+    left: 90px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+/* top part end */
+
+/* banner part start */
+#banner{
+    background-image: url(../img/bg.png);
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0;
+}
+.course-amount{
+    height: 620px;
+    width: 580px;
+}
+.course-rate{
+    background-color: rgb(224, 146, 0) !important;
+    border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -ms-border-radius: 10px !important;
+    -o-border-radius: 10px !important;
+    padding: 10px;
+}
+.buy{
+    text-align: center;
+}
+.btn-color{
+    background-color: rgb(23, 23, 97) !important;
+}
+/* banner part end */
